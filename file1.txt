@@ -1,5 +1,0 @@
-hello
-world
-sky
-extra
-extra2
